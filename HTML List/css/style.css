@@ -1,0 +1,67 @@
+.one
+{
+    background-color: coral;
+    width: 50%;
+    list-style-type: circle;
+    list-style-position: outside;
+}
+
+.two li
+{
+    background-color: rgb(172,172,172);
+}
+
+.two
+{
+    list-style-type: upper-roman;
+    background-color: crimson;
+}
+
+.one li
+{    
+    background-color: lightpink;
+    list-style-type: squre;
+}
+
+.with-img
+{
+    list-style-image: url(../img/1.jpg);
+}
+
+.menu
+{
+    list-style-type: none;
+    width: 300px;
+    padding-left: 0;
+}
+
+.menu li
+{
+    height: 40px;
+    text-align: center;
+    margin-top: 1px;
+    background-color: lightpink;
+    line-height: 40px;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: white;
+    letter-spacing: 1px;
+    box-shadow: -1px 1px 5px 1px rgba(0, 0, 0, 4);
+    /* float: left; */
+}
+
+.menu li:hover
+{
+    background-color: rgb(133, 114, 132);
+    cursor:grab;
+}
+
+.first-li
+{
+    border-radius: 15px 15px 0 0;    
+}
+
+.last-li
+{
+    border-radius: 0 0 15px 15px;    
+}

@@ -1,0 +1,48 @@
+.imageArrow
+{
+    list-style-image: url(../img/arrow.png);
+}
+
+.imageWinter
+{
+    list-style-image: url(../img/winter_16.png);
+}
+
+.imageSpring
+{
+    list-style-image: url(../img/spring_16.png);
+}
+
+.imageSummer
+{
+    list-style-image: url(../img/summer_16.png);
+}
+
+.imageAutumn
+{
+    list-style-image: url(../img/autumn_16.png);
+}
+
+.task2
+{
+    list-style-type: upper-roman;
+}
+
+.one
+{
+    list-style-type: lower-alpha;
+}
+
+.two
+{
+    list-style-type: lower-alpha;
+}
+
+dt
+{
+    background-color: rgb(51, 62, 71);
+}
+
+dd{
+    background-color: rgb(96, 97, 99);
+}

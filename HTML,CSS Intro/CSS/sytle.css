@@ -1,0 +1,110 @@
+/* селектоr
+{
+    властивiсть:значення;
+
+
+} */
+
+/* *{
+   margin: 0;
+} */
+
+@font-face 
+{
+    font-family: 'LIBRARY 3 AM soft';
+    src: url('fonts/LIBRARY3AMsoft.woff2') format('woff2'),
+         url('fonts/LIBRARY3AMsoft.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body
+{
+    background-color: rgb(113, 202, 253);
+    /* background-image: url(../IMG/1.png),url(../IMG/2.png);
+    background-size: 25%,35%; */
+    color: darkmagenta;
+    background-repeat: no-repeat;
+    /* background-position: 100% 100%,left,top;
+    background-attachment: fixed;       
+    height: 700;  */
+    background-image: url(../IMG/4.jpg);
+    background-size: cover;
+}
+
+h1
+{
+    text-shadow: 10px 5px 10px rgba(0, 12, 80,0.5);
+    color: rgb(10, 10, 163);
+    text-align: center;
+    font-size: 40px;
+    font-family: 'LIBRARY 3 AM soft';
+}
+
+p
+{
+    line-height: 2;
+    text-indent: 3%;
+    text-align: justify;
+    font-size: 28px;
+    font-family: 'Dancing Script', cursive;
+}
+
+i
+{
+    color: rgb(48, 18, 18);
+    font-family: "Segoe UI"; 
+    letter-spacing: 3px;
+}
+
+span
+{
+    color: brown;
+    font-style: italic;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-decoration: double underline lightcoral;
+    word-spacing: 5px;
+}
+
+.other
+{
+    width: 50%;
+    text-align: center;
+    background-color: lightslategray;
+    padding: 20px 40px;
+    margin:0 auto;
+    border-radius: 10%;
+    border-top-color:teal ;
+    border-top-width: 3px;
+    border-top-style: dashed;
+    border-bottom: 10px double navy;
+    border: 2px solid black;
+    border-radius: 53px 129px 138px 53px;
+    -moz-border-radius: 53px 129px 138px 53px;
+    -webkit-border-radius: 53px 129px 138px 53px;
+    border: 4px solid #000000;
+}
+
+h2
+{
+    color: pink;
+    text-align: center;
+    font-size: 40px;
+    text-shadow: -1px -1px 0 black,-1px -1px 0 black,-1px -1px 0 black,-1px -1px 0 black;
+}
+
+hr
+{
+    background-color: violet;
+    width: 30%;
+    border: none;
+    height: 3px;
+    margin: 10px 0;
+}
+
+.one
+{
+    background-image: url(../IMG/5.jpg);
+    background-attachment: fixed;
+}

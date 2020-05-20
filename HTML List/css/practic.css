@@ -1,0 +1,39 @@
+.two
+{
+    list-style-type: circle;
+}
+
+.three
+{
+    list-style-type: square;
+}
+
+.Glava
+{
+    list-style-type: circle;
+}
+
+.punkt
+{
+    list-style-type: square;
+}
+
+.four
+{
+    list-style-type: lower-alpha;
+}
+
+.five
+{
+    list-style-type: upper-alpha;
+}
+
+.six
+{
+    list-style-type: lower-roman;
+}
+
+.ten
+{
+    list-style-type: upper-roman;
+}
