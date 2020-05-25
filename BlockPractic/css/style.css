@@ -1,0 +1,86 @@
+body
+{
+    margin: 0;
+}
+
+div
+{
+    border: 1px solid black;
+}
+
+.a
+{
+    background-color: red;
+    height: 1000px;
+    width: 100%;
+}
+
+.b
+{
+    float: left;
+    height: 950px;
+    background-color: orange;
+    width: 20%;
+    max-width: 50px;
+    margin-right: 1px;
+}
+
+.d
+{
+    height: 375px;
+    margin: 20px;
+    background-color: green;
+}
+
+.e
+{
+    margin: 1%;
+    margin-right: 0;
+    height: 340px;
+    width: 35%;
+    background-color: blueviolet;
+    float: left;
+}
+
+.f
+{
+    margin: 1%;
+    height: 340px;
+    width: 50%;
+    background-color: cornflowerblue;
+    float: left;
+}
+
+.h
+{
+    margin: 15px;
+    height: 310px;
+    background-color: gray;
+    float: left;
+    width: 45%;
+}
+
+.g
+{
+    margin: 1%;
+    margin-left: 0;
+    height: 310px;
+    background-color: rgb(12, 2, 145);
+    float: right;
+    width: 45%;
+}
+
+.i
+{
+    margin: 15px;
+    height: 130px;
+    background-color: white;
+}
+
+.r
+{
+    margin: 15px;
+    height: 310px;
+    background-color: rgb(12, 2, 145);
+    width: 95%;
+}
