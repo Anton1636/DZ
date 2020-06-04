@@ -1,0 +1,16 @@
+ul
+{
+    background-color: rgb(63, 63, 63);
+    margin-right: 80%;
+}
+
+li
+{
+    color: white;
+    list-style-type: none;
+}
+
+li:hover
+{
+    color: red;
+}
