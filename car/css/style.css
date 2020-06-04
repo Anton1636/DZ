@@ -1,0 +1,37 @@
+.one
+{
+    display: inline-block;
+  position: absolute;	
+  left: 25%;
+  white-space: nowrap;
+  text-align: center;
+}
+
+.one img
+{
+    display: inline-block;
+  margin: 5px;
+  width: 200px;
+  white-space: nowrap;
+}
+
+.two
+{
+    text-align: center;
+}
+
+.three
+{
+  text-align: left;
+  margin-top: 20%;
+}
+
+.four
+{
+  margin-left: 70%;
+}
+
+.five
+{
+  text-align: center;
+}
