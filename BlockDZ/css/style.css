@@ -1,0 +1,61 @@
+.headeer
+{
+    border: 5px solid lightgreen;
+    margin-right: 80%;
+    height: 40px;
+}
+
+.naV
+{
+    border: 5px solid rgb(217, 154, 173);
+    margin-right: 80%;
+
+}
+
+.container
+{
+    border: 5px solid rgb(228, 228, 228);
+    margin-right: 70%;
+}
+
+.article
+{
+    border: 5px solid rgb(82, 176, 214);
+    margin-right: 85%;
+}
+
+.header
+{
+    border: 5px solid lightgreen;
+    margin-right: 90%;
+}
+
+.section
+{
+    border: 5px solid rgb(190, 122, 195);
+    margin-right: 90%;
+}
+
+.first-footer
+{
+    border: 5px solid rgb(250, 244, 168);
+    margin-right: 80%;
+}
+
+.div
+{
+    border: 5px solid rgb(236, 219, 189);
+    margin-right: 80%;
+}
+
+.aside
+{
+    border: 5px solid rgb(73, 218, 221);
+    margin-right: 70%;
+}
+
+.second-footer
+{
+    border: 5px solid rgb(250, 244, 168);
+    margin-right: 80%;
+}
