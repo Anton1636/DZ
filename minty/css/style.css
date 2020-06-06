@@ -1,0 +1,110 @@
+body
+{
+    max-width: 600px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+img
+{
+    height: 100%;
+}
+
+.headerr
+{
+    background-color: rgb(13, 181, 228);
+    text-align: left;
+}
+
+.button{
+    text-decoration: none;
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    background-color: #0DB5E4;
+    width: 200px;
+    height: 30px;
+    display: block;
+    line-height: 30px;
+    text-align: center;
+    border-radius: 5px;
+    border: 1px solid black;
+    box-shadow: 0px 1px 4px 0px lightblue;
+}
+
+.button:hover
+{
+    background-color: #397485;
+}
+
+.btncenter
+{
+    margin: 0 auto;
+}
+
+.btnright
+{
+    float: right;
+    margin: auto 0;
+}
+
+.left-img
+{
+    float: left;
+}
+
+.right-img
+{
+    float: right;
+    margin-bottom: 10px;
+}
+
+.one
+{
+    text-align: center;
+    margin: 0 auto;
+    padding: 50px;
+    align-items: center;
+}
+
+.two
+{
+    overflow: hidden;
+    text-align: left;
+    float: left;
+}
+ 
+.pp
+{
+    margin-right: 10px;
+}
+
+.three
+{
+    text-align: left;
+}
+
+.hrr
+{
+    width: 100%;
+}
+
+.test
+{
+    align-items: baseline;
+}
+
+.four
+{
+    text-align: left;
+}
+
+.five
+{
+   text-align: right;
+}
+
+.six
+{
+    width: 190px;
+}
