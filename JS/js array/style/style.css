@@ -1,0 +1,48 @@
+body
+{
+    background-color: antiquewhite;
+}
+
+#first
+{
+    width: 100px;
+}
+
+.center
+{
+    color: yellow;
+    text-align: center;
+}
+
+.country
+{
+    width: 50%;
+    margin: 0 auto;
+    border: inset 5px solid gray;
+    background-color: teal;
+    padding: 50px;
+}
+
+span
+{
+    font-weight: bold;
+    color: darkblue;
+    font-size: 18px;
+}
+
+.country p
+{
+    color: royalblue;
+}
+
+#ua
+{
+    background-color: rgb(52, 177, 226);
+    display: none;
+}
+
+#pl
+{
+    background-color: rgb(111, 73, 161);
+    display: none;
+}

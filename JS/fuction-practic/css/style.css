@@ -1,0 +1,24 @@
+.one p{
+    text-align: justify;
+    padding: 5px;
+    line-height: 1.5;
+}
+.one img{
+    height: 250px;
+    float: left;
+    margin: 10px;
+}
+.one h1{
+    padding-left: 10px;
+}
+.films{
+    padding-top: 20px;
+    padding-left: 10px;
+}
+.films input {
+    margin-left: 20px;
+}
+.actor{
+    background: rgba(207, 229, 238, 0);
+    height: 400px;
+}
